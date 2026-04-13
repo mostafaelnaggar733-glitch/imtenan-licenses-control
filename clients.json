@@ -1,6 +1,6 @@
 {
   "demo-client": {
-    "status": "active",
+    "status": "inactive",
     "expiry_date": "2025-12-31 23:59:59",
     "reason": "Payment Issue"
   }
