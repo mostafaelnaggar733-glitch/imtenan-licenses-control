@@ -1,6 +1,7 @@
 {
   "demo-client": {
-    "name": "Imtenan",
-    "status": "active"
+    "status": "active",
+    "expiry_date": "2025-12-31 23:59:59",
+    "reason": ""
   }
 }
