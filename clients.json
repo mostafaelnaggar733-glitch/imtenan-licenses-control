@@ -1,7 +1,7 @@
 {
   "demo-client": {
-    "status": "inactive",
+    "status": "active",
     "expiry_date": "2025-05-31 23:59:59",
-    "reason": "تحديث موقوف"
+    "reason": "تحديث فعال"
   }
 }
